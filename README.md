@@ -9,14 +9,14 @@ It provides 3 options and you type 1, 2 or 3 based on the sort of day you're hav
  
 These correspond to normal, stressed or focus
 
-###Normal Opens:
+### Normal Opens:
 * outlook:calendar 
 * protonmail.com
 * linkedin.com
 * overleaf.com
-###Stressed Opens:
+### Stressed Opens:
 * Steam
 * youtube=Lofi hip-hop beats
-###Focus Opens:
+### Focus Opens:
 * Eclipse
 * youtube=Lofi hip-hop beats
